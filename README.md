@@ -1,3 +1,4 @@
 # pong
-My first game.
-Pong is one of the first computer games that ever created, this simple "tennis like" game features two paddles and a ball, the goal is to defeat your opponent. The game can be played with two human players, or one player against a computer controlled paddle. The game was originally developed by Allan Alcorn and released in 1972 by Atari corporations.
+Моя первая игра.
+Понг это одна из первых компьютерных игр. Это простая, похожая на теннис игра, включающая в тебя две "ракетки" и мяч. Цель - победить оппонента.
+В неё можно играть с другом или против компьютера. Оригинальная игра была разработана Алланом Алкорном и выпущена Atari в 1972 году.
